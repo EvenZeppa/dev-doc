@@ -83,4 +83,20 @@ Le terme SOLID représente un ensemble de 5 principes de conception pour écrire
 - I - Interface Segregation Principle (ISP)
 - D - Dependency Inversion Principle (DIP)
 
-[Voir le markdown complet a ce sujet](./SOLID.md)
+[Voir le markdown complet à ce sujet](./SOLID.md)
+
+---
+
+## **Fluent Interface**
+
+Le terme Fluent Interface désigne un principe en POO qui consiste à faire des chaînes de méthodes pour simplifier l'usage d'appels successifs dans une classe.
+
+[Voir le markdown complet à ce sujet](./fluent_interface.md)
+
+---
+
+## **AOP**
+
+L'AOP (ou Aspect-Oriented Programming) est un concept visant à traiter les préoccupations transversales (logs, sécurité, etc...) à l'extérieur même du code de l'application.
+
+[Voir le markdown complet à ce sujet](./AOP.md)
